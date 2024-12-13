@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/": {
+      "name": "/",
+      "lambdaFunction": "amplifyurlshortener8d2d9fef",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

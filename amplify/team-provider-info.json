@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyurlshortener-dev-d79e0-authRole",
+      "UnauthRoleArn": "arn:aws:iam::586794477255:role/amplify-amplifyurlshortener-dev-d79e0-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::586794477255:role/amplify-amplifyurlshortener-dev-d79e0-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyurlshortener-dev-d79e0-deployment",
+      "UnauthRoleName": "amplify-amplifyurlshortener-dev-d79e0-unauthRole",
+      "StackName": "amplify-amplifyurlshortener-dev-d79e0",
+      "StackId": "arn:aws:cloudformation:us-east-2:586794477255:stack/amplify-amplifyurlshortener-dev-d79e0/6ea7e2c0-b89c-11ef-b3d7-062289a463b7",
+      "AmplifyAppId": "dpqm1a3bzfehn"
+    },
+    "categories": {
+      "function": {
+        "amplifyurlshortener8d2d9fef": {
+          "deploymentBucketName": "amplify-amplifyurlshortener-dev-d79e0-deployment",
+          "s3Key": "amplify-builds/amplifyurlshortener8d2d9fef-6c483673746174774b6d-build.zip"
+        }
+      },
+      "storage": {
+        "dburlshortener": {}
+      },
+      "api": {
+        "apiurlshortener": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dpqm1a3bzfehn",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
